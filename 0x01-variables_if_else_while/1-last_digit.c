@@ -15,11 +15,11 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	 printf("Last digit of %d is %d ", n, n % 10);
     if (n % 10 > 5)
-        printf("and is greater than 5\n");
+            printf("and is greater than 5\n");
     else if (n % 10 == 5)
-        printf("and is equal to 5\n");
+            printf("and is equal to 5\n");
     else if (n % 10 < 5)
-        printf("and is less than 5\n");
+            printf("and is less than 5\n");
 
 	return (0);
 }
