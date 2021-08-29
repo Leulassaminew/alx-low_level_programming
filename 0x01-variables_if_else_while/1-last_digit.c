@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - assigns a random number to int n everytime and compares last digit to 5
+ * main - assigns a random numberand compares last digit to 5
  * it executes, and prints it
  * Return: Always 0 (Success)
  */
