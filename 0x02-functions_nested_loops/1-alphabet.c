@@ -1,13 +1,26 @@
- #include "main.h"
-#include <stdio.h>
 
-int main (void)
-{
-char ch;
+#include "main.h"
 
-for (ch = 'a' ;ch <= 'z' ; ch++)
+/**
+ * print_alphabet_x10 - prints 10 times the alphabet, in lowercase,
+ * followed by a new line
+ */
+void print_alphabet_x10(void)
 {
-putchar(ch);
-}
-putchar('\n');
+	char ch;
+	int i;
+
+	i = 0;
+
+	while (i < 10)
+	{
+		ch = 'a';
+		while (ch <= 'z')
+		{
+			_putchar(ch);
+			ch++;
+		}
+		_putchar('\n');
+		i++;
+	}
 }

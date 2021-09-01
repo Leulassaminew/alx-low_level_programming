@@ -1,7 +1,7 @@
- #include "main.h"
+#include "main.h"
 #include <stdio.h>
 
-int main (void)
+void print_alphabet_x10(void)
 {
 char ch;
 int i;
