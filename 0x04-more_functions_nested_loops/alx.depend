@@ -1,12 +1,16 @@
 # depslib dependency file v1.0
-1630604582 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
+1630606435 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
 	<stdio.h>
-
-1630604846 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\_putchar.c
-	<unistd.h>
-
-1630605332 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\0-isupper.c
 	"main.h"
 
-1630605414 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.h
+1630606117 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\_putchar.c
+	<unistd.h>
+
+1630605860 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\0-isupper.c
+	"main.h"
+
+1630606428 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.h
+
+1630606675 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\1-isdigit.c
+	"main.h"
 
