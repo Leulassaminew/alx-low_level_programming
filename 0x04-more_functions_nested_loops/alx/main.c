@@ -9,6 +9,8 @@ void print_most_numbers(void);
 void more_numbers(void);
 void print_line(int n);
 void print_diagonal(int n);
+void print_square(int size);
+void print_triangle(int size);
 
 int main()
 {
@@ -21,5 +23,7 @@ print_most_numbers();
 more_numbers();
 print_line(5);
 print_diagonal(7);
+print_square(7);
+print_triangle(8);
 
 }

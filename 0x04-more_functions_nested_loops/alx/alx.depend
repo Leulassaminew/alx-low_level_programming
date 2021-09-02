@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1630611169 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
+1630612812 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
 	<stdio.h>
 	"main.h"
 
@@ -9,7 +9,7 @@
 1630608898 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\0-isupper.c
 	"main.h"
 
-1630611180 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.h
+1630613382 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.h
 
 1630608898 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\1-isdigit.c
 	"main.h"
@@ -30,5 +30,8 @@
 	"main.h"
 
 1630611180 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\7-print_diagonal.c
+	"main.h"
+
+1630612812 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\8-print_square.c
 	"main.h"
 
