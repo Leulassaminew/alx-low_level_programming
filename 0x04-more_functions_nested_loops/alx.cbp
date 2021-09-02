@@ -31,6 +31,43 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="0-isupper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="1-isdigit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="10-print_triangle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2-mul.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="3-print_numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="4-print_most_numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5-more_numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6-print_line.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="7-print_diagonal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="8-print_square.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="_putchar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

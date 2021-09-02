@@ -1,19 +1,40 @@
 # depslib dependency file v1.0
-1630608788 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
+1630613380 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
 	<stdio.h>
 	"main.h"
 
 1630606117 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\_putchar.c
 	<unistd.h>
 
-1630605860 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\0-isupper.c
+1630608898 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\0-isupper.c
 	"main.h"
 
-1630608578 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.h
+1630613382 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.h
 
-1630607707 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\1-isdigit.c
+1630608898 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\1-isdigit.c
 	"main.h"
 
 1630608412 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\2-mul.c
+	"main.h"
+
+1630610036 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\3-print_numbers.c
+	"main.h"
+
+1630610178 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\4-print_most_numbers.c
+	"main.h"
+
+1630610517 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\5-more_numbers.c
+	"main.h"
+
+1630614050 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\6-print_line.c
+	"main.h"
+
+1630611180 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\7-print_diagonal.c
+	"main.h"
+
+1630612812 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\8-print_square.c
+	"main.h"
+
+1630613382 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\10-print_triangle.c
 	"main.h"
 
