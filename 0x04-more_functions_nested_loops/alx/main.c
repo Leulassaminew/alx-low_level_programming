@@ -8,6 +8,5 @@ int main()
 {
 _putchar('h');
 _islower(78);
-_isdigit(50);
 
 }
