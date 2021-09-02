@@ -8,6 +8,6 @@ int mul(int a, int b);
 int main()
 {
 _islower(78);
-
+_isdigit(49);
 printf("%d mul is", mul(3,4));
 }
