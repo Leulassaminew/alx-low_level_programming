@@ -6,7 +6,5 @@ int _isdigit(int c);
 
 int main()
 {
-_putchar('h');
 _islower(78);
-
 }
