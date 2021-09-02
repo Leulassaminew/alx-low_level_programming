@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1630604582 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
+1630605988 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\main.c
 	<stdio.h>
+	"main.h"
 
 1630605533 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\alx\_putchar.c
 	<unistd.h>
