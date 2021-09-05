@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1630849387 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\test\main.c
+	"main.h"
+
+1630848615 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\test\main.h
+	<stdio.h>
+
+1630848692 source:c:\users\leul\alx_low_level_programming\0x01-variables_if_else_while\0-positive_or_negative.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
