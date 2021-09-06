@@ -1,4 +1,4 @@
-#include "main.h"
+
 /**
  *  _puts- resets n to 98,
  * @str:address of n
