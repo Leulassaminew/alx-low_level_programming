@@ -1,4 +1,4 @@
-#include "main.h"
+
 /**
  *  _puts- resets n to 98,
  * @str:address of n
@@ -11,5 +11,5 @@ for (i = 0 ;str[i] != '\0' ; i++)
 {
 _putchar(str[i]);
 }
-_putchar('/n');
+_putchar('\n');
 }
