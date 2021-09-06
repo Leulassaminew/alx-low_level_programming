@@ -2,9 +2,9 @@
 
 /**
  *  reset_to_98- resets n to 98,
- * followed by a new line
+ * @n:address of n
  */
- void reset_to_98(int *n)
- {
- *n = 98;
- }
+void reset_to_98(int *n)
+{
+*n = 98;
+}
