@@ -2,9 +2,10 @@
 
 /**
  *  swap_int- swap a and b,
- * followed by a new line
+ * @a:pointer to first value
+ * @b:pointer to second value
  */
-int *a,*b;
+
 void swap_int(int *a, int *b)
 {
 int temp;
