@@ -1,12 +1,9 @@
-int _putchar(char c);
+#include "main.h"
 /**
  *  _puts- resets n to 98,
  * @str:address of n
- * @c:string to print
- *_putchar:print
- *return:c
  */
-int _putchar(char c);
+
 void _puts(char *str)
 {
 int i;
