@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630926630 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\pointer 3\main.c
+	"main.h"
+	<stdio.h>
+
+1630926630 c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\pointer 3\main.h
+
+1630927132 source:c:\users\leul\alx_low_level_programming\0x04-more_functions_nested_loops\pointer 3\2-strlen.c
+	<string.h>
+
