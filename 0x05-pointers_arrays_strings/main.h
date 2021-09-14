@@ -3,4 +3,4 @@
 int _strlen(char *s);
 
 
-#endif // MAIN_H_INCLUDED
+#endif /* MAIN_H_INCLUDED*/
