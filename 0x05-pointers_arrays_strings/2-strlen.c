@@ -2,7 +2,7 @@
 
 /**
  * _strlen - checks for lowercase character
- * @i: the character to check
+ * @s: smdv sjdln
  * Return: i if c is lowercase, 0 otherwise
  */
 int _strlen(char *s)
